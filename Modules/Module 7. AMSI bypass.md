@@ -207,12 +207,14 @@ catch(e)
 **Practice**: the AMSI bypass + Shellcode runner + Process injection and migration to obtain the Meterpreter shell that stays alive after the detection.
 
 # Conclusion & TODO
-Introduction to WinDefender - the Anti-Malware Scan Interface (AMSI) 
-AMSI bypass in PowerShell and JScript
+Conclusion:    
+Introduction to WinDefender - the Anti-Malware Scan Interface (AMSI)    
+AMSI bypass in PowerShell and JScript   
 
-
+TODO:    
 Defense Evasion Technique: Endpoint Detection and Response (EDR) and Extended Detection and Response (XDR)
-https://github.com/reveng007/Learning-EDR-and-EDR_Evasion
+
+https://github.com/reveng007/Learning-EDR-and-EDR_Evasion   
 [EDRSilencer](https://github.com/netero1010/EDRSilencer) A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server.
 
 
